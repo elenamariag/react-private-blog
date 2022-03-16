@@ -1,0 +1,6 @@
+.menu-box {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background: orange;
+}
